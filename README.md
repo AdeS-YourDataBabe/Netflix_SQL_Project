@@ -11,11 +11,11 @@ This project uses SQL to analyse Netflix's movies and TV shows comprehensively. 
 - Assess content by release year, country of origin, and length.
 - Classify content according to defined criteria and relevant keywords.
 
-  ## Dataset
+## Dataset
 
-  The dataset for this project was obtained from Kaggle.
+The dataset for this project was obtained from Kaggle.
 
-  - **Dataset:** [Netflix Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
+- **Dataset:** [Netflix Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 
 ## Business Questions
 
