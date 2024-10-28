@@ -15,4 +15,4 @@ This project uses SQL to analyse Netflix's movies and TV shows comprehensively. 
 
   The dataset for this project was obtained from Kaggle.
 
-  - **Dataset Link:** [Netflix Movies Dataset] (https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
+  - **Dataset** [Netflix Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
